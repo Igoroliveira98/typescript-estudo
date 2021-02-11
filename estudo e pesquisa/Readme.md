@@ -1,0 +1,1 @@
+Pesquisar sobre: interface em TypeScript
